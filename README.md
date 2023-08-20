@@ -4,3 +4,4 @@ The decision is based on students’ activities on the platform—viewing lectur
 The project is inspired by an initiative 365 had in 2022 to predict student purchases before our Black Friday campaign. We wanted to create a list of students likelier to purchase and retarget them with unique ads on social media. But as it turned out, this was no easy task due to the extreme imbalance of the data—the number of students who had never purchased a subscription was much higher than the number of students who had. The primary reason for that was the free campaign we ran before the Black Friday one, where the platform was unlocked for free to all 365 students.
 
 As you will see, such class imbalance combined with humans’ unpredictable behavior makes it challenging to predict student purchases.
+
