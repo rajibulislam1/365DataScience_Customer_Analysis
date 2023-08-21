@@ -1,9 +1,6 @@
 # Black-Friday-free-offer-plan-purchasing-a-subscription
-The likelihood of a student registered for a free plan purchasing a subscription on the 365datascience.com online teaching platform.
-The decision is based on students’ activities on the platform—viewing lectures and participating in exams.
-The project is inspired by an initiative 365 had in 2022 to predict student purchases before our Black Friday campaign. We wanted to create a list of students likelier to purchase and retarget them with unique ads on social media. But as it turned out, this was no easy task due to the extreme imbalance of the data—the number of students who had never purchased a subscription was much higher than the number of students who had. The primary reason for that was the free campaign we ran before the Black Friday one, where the platform was unlocked for free to all 365 students.
-
-As you will see, such class imbalance combined with humans’ unpredictable behavior makes it challenging to predict student purchases.
+# Introduction:
+ The objective of this project was to develop a predictive model to forecast course purchases based on a range of student-related attributes. The dataset encompassed information on variables such as 'minutes_watched', 'courses_started', 'practice_exams_started', 'minutes_spent_on_exams', 'days_on_platform', and 'practice_exams_passed'. The study aimed to ascertain the predictive power of these variables in determining whether a student would make a course purchase.
 
  I have completed the project with five different Algorithms accordingly
  
