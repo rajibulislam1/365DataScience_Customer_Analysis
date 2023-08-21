@@ -5,6 +5,13 @@ The project is inspired by an initiative 365 had in 2022 to predict student purc
 
 As you will see, such class imbalance combined with humans’ unpredictable behavior makes it challenging to predict student purchases.
 
+# I have completed the project with five different Algorithms accordingly
+ *Logistic Regression 
+ * K-Nearest Neighbors
+ * Support Vector Machine
+ *  Decision Tress algorithm and
+ *  Random Forest 
+
 
 # Data Preprocessing:
 
