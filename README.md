@@ -5,3 +5,9 @@ The project is inspired by an initiative 365 had in 2022 to predict student purc
 
 As you will see, such class imbalance combined with humans’ unpredictable behavior makes it challenging to predict student purchases.
 
+
+# Data Preprocessing:
+
+* The project started with importing necessary libraries and loading the dataset ('ml_datasource.csv').
+* An initial overview of the dataset was obtained using the describe() and dtypes functions.
+* The distribution of different variables was visualized using KDE plots to identify potential outliers and skewed data.
