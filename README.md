@@ -1,4 +1,4 @@
-# Black-Friday-free-offer-plan-purchasing-a-subscription
+# 365DataScience Customer Analysis for Enhanced Revenue Growth: Leveraging Predictive Insights in Online Marketing
 # Introduction:
  The objective of this project was to develop a predictive model to forecast course purchases based on a range of student-related attributes. The dataset encompassed information on variables such as 'minutes_watched', 'courses_started', 'practice_exams_started', 'minutes_spent_on_exams', 'days_on_platform', and 'practice_exams_passed'. The study aimed to ascertain the predictive power of these variables in determining whether a student would make a course purchase.
 
